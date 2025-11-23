@@ -1,0 +1,6 @@
+pandas
+python-amazon-sp-api
+google-generativeai
+python-dotenv
+jsonschema
+requests
